@@ -16,7 +16,7 @@ To use the Graduation Day Countdown Bot, follow these steps:
 
    ```
    git clone https://github.com/Lykamopia/Graduation-Day-Reminder-Bot.git
-   cd Graduation-Day-Reminder-Bot
+   cd Graduation-Day-Reminder-Bot/scripts
    ```
 
 2. **Install dependencies:**
